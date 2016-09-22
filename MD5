@@ -1,8 +1,8 @@
-5aa23b1ee6c5474968ac7a65239872c8 *DESCRIPTION
+3b0fa72b7527f85951ad504f55a200d2 *DESCRIPTION
 dc7ad0695d637ba48238fe38c6849d0d *NAMESPACE
 53cb4a3078222d2407d4996979ff4948 *R/confInt.R
-ab6840485bbd955ea82771e02926b18f *R/plot.out.R
-3a7525527478c514c489ae1ffbb1580f *R/spikes-internal.R
+509f149d24061254422922e672d4caf5 *R/plot.out.R
+b859ac1a230fee2d7a919dfd5e4b7bc5 *R/spikes-internal.R
 c51684e9136827d9c56242b2d504897b *R/spikes.R
 f4e8b7e0d0205e3a8ec598af745ef9bd *R/summary.out.R
 0ab1c55f7550e2ca16b842a0e69abc07 *data/data.rda
@@ -10,7 +10,7 @@ fff4fb61d153fa6d790e3520b935bef9 *data/output.rda
 0ced8b058f7153aa9d2509ef7b1d7c02 *man/confInt.Rd
 38e12f3a056c7e3ae064362784fd1bf0 *man/data.Rd
 344fcca46c7a7a354cae2450af1e49b0 *man/output.Rd
-47713dc62002e7b92fef1964377bfe59 *man/plot.out.Rd
+ab2f4583e2509a9dd4a2eeec641373c8 *man/plot.out.Rd
 30a31196f8e80a8802528aaeb6e0d47d *man/spikes-internal.Rd
 53036d67059f06188da1df86c1698f14 *man/spikes.Rd
 bee97a2a785cd6f0532776178f4c974b *man/summary.out.Rd

@@ -136,6 +136,7 @@ fraud <- function(out, data, resamples, grid, bw){
     w <- apply(do.call("rbind", lapply(outsamp, function(x) x$w)), 2, mean)
     w <- W(data$v/data$t) - w
     w <- ifelse(w > 0, w, 0)
+    w[1] <- 0
     ymax <- apply(do.call("rbind", lapply(outsamp, function(x) x$ydens)), 2, max)
     fraud <- 100*sum(w[ymax < ydens$y])
 

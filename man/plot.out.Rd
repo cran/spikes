@@ -8,12 +8,15 @@ Plots output of \code{spikes}
 Plots the observed kernel density of data and the upper envelope of the resampled densities.
 }
 \usage{
-\method{plot}{out}(x, \dots)
+\method{plot}{out}(x, main = NULL, \dots)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{x}{
 Object of class \code{out}
+}
+  \item{main}{
+Title, \code{NULL} by default
 }
   \item{...}{
 additional plotting arguments
